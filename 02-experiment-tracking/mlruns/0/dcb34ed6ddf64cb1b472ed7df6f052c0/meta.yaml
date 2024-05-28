@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dcb34ed6ddf64cb1b472ed7df6f052c0/artifacts
+end_time: 1716814190916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcb34ed6ddf64cb1b472ed7df6f052c0
+run_name: zealous-sheep-488
+run_uuid: dcb34ed6ddf64cb1b472ed7df6f052c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716814179337
+status: 3
+tags: []
+user_id: codespace

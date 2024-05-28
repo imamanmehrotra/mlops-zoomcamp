@@ -1,0 +1,6 @@
+artifact_location: /workspaces/mlops-zoomcamp/02-experiment-tracking/mlflow_artifacts
+creation_time: 1715926921737
+experiment_id: '713099980944072437'
+last_update_time: 1715926921737
+lifecycle_stage: active
+name: my-first-experiment
